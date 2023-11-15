@@ -1,0 +1,33 @@
+body{
+text-align: center;
+color: aquamarine;
+
+background-color: blueviolet;
+}
+
+#heading{
+    font-family: 'MinecrafterAltRegular';
+    text-align: center;
+}
+
+#camera{
+    border: 4px ridge blue;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+#result{
+    border: 4px ridge blue;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    margin-left: 100px;
+   
+    
+}
+
+hr{
+    width: 50%;
+}
